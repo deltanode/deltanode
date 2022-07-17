@@ -22,7 +22,7 @@ Hi 👋, I'm Yogesh Yadav, a software engineer and passionate self-taught full s
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
  
 - 💼 Any freelance work? do reach, email : yogesh7132@gmail.com :)
-- 💬 ask me about anything, i am happy to help. 
+- 💬 Ask me about anything, I am happy to help. 
 
 <a href="https://twitter.com/yogesh7132">
   <img align="left" alt="Yogesh's Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />
