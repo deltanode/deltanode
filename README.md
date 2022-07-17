@@ -34,13 +34,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <hr>
 
 <p align="center">
-<span>
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=deltanode&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-</span>
+</p>
 
-<span>
+<p align="center">
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=deltanode&include_all_commits=true&hide_border=true&theme=dark"/>
-</span>
 </p>
 
 <!-- 
