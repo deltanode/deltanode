@@ -31,15 +31,22 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="left" alt="Yogesh's Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
 </a>
 <br>
+
 <hr>
 
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=deltanode&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-</p>
+<a><h2>Stats</h2></a>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=deltanode&include_all_commits=true&hide_border=true&theme=dark"/>
+<span>
+	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deltanode&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+</span>
+
+<span>
+	<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deltanode&include_all_commits=true&hide_border=true&theme=dark"/>
+</span>
 </p>
+
+
 
 <!-- 
 <p align="center">
