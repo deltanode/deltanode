@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 </h1>
 
 <br >
-Hi 👋, I'm Yogesh Yadav, a software engineer and passionate self-taught full stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
+Hi 👋, I'm Yogesh Yadav, a software engineer and passionate self-taught full stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. <br>
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
  
-- 💼 Any freelance work? do reach, email : yogesh7132@gmail.com :)
+- 💼 Any freelance work? do reach, [email](mailto:yogesh7132@gmail.com)
 - 💬 Ask me about anything, I am happy to help. 
 
 <a href="https://twitter.com/yogesh7132">
