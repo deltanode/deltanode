@@ -23,7 +23,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 Any freelance work? do reach, [email](mailto:yogesh7132@gmail.com)
 - 💬 Ask me about anything, I am happy to help. 
 
-<a href="https://twitter.com/yogesh7132">
+<a href="https://twitter.com/yogesh_yadv">
   <img align="left" alt="Yogesh's Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />
 </a>
 <a href="https://stackoverflow.com/users/2575386/yogesh-yadav">
