@@ -1,4 +1,12 @@
 <!--
+## Hello, folks <img alt="Hello" width="35" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif" />
+
+### Hello, it's Yogesh<img alt="Hello" width="25" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif" />
+-->
+
+
+
+<!--
 ### Hi there 👋
 
 Here are some ideas to get you started:
@@ -36,7 +44,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <p align="center">
 <span>
-	<img width="414px" src="https://github-readme-stats.vercel.app/api?username=deltanode&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+	<img width="414px" src="https://github-readme-stats.vercel.app/api?username=deltanode&include_all_commits=true&count_private=true&hide_border=true&theme=dark&show_icons=true" />
 </span>
 <span>
 	<img width="414px" src="https://github-readme-streak-stats.herokuapp.com/?user=deltanode&include_all_commits=true&hide_border=true&theme=dark"/>
