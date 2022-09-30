@@ -44,7 +44,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <p align="center">
 <span>
+	<!--
 	<img width="414px" src="https://github-readme-stats.vercel.app/api?username=deltanode&include_all_commits=true&count_private=true&hide_border=true&theme=dark&show_icons=true" />
+	-->
+	<img width="414px" src="https://github-readme-stats.vercel.app/api?username=deltanode&include_all_commits=false&count_private=true&hide_border=true&theme=dark&show_icons=true" />
 </span>
 <span>
 	<img width="414px" src="https://github-readme-streak-stats.herokuapp.com/?user=deltanode&include_all_commits=true&hide_border=true&theme=dark"/>
