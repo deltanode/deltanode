@@ -37,6 +37,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://stackoverflow.com/users/2575386/yogesh-yadav">
   <img align="left" alt="Yogesh's Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
 </a>
+<a href="https://www.linkedin.com/in/yogesh7132">
+  <img align="left" alt="Yogesh's Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" />
+</a>
 <br>
 
 <hr>
