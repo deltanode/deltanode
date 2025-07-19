@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </h1>
 
 <br >
-Hi 👋, I'm Yogesh Yadav, a software engineer and passionate self-taught full stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. <br>
+Hi 👋, I'm Yogesh Yadav, a senior software engineer and passionate self-taught full stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. <br>
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
  
 - 💼 Any freelance work? do reach, [email](mailto:yogesh7132@gmail.com)
