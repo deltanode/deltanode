@@ -83,5 +83,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## 📝 Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Writing SDKs That Don’t Make Other Developers Hate You](https://medium.com/p/648705d0bdf3)
 * [Explore the lexical Environment & Environment Record in Javascript 2021](https://codescoop.hashnode.dev/what-has-changed-in-lexical-environment-as-per-ecmascript2021)
 <!--END_SECTION:fee
