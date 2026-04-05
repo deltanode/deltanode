@@ -31,11 +31,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 Any freelance work? do reach, [email](mailto:yogesh7132@gmail.com)
 - 💬 Ask me about anything, I am happy to help. 
 
-<a href="https://twitter.com/yogesh_yadv">
+<!--<a href="https://twitter.com/yogesh_yadv">
   <img align="left" alt="Yogesh's Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
+</a>-->
+<a href="https://x.com/yogesh_yadv">
+  <img align="left" alt="Yogesh's X Acoount" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" />
 </a>
 <a href="https://stackoverflow.com/users/2575386/yogesh-yadav">
   <img align="left" alt="Yogesh's Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
+</a>
+<a href="https://medium.com/@yogeshyd">
+  <img align="left" alt="Yogesh's Medium Account" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Medium_icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yogesh-ydv">
   <img align="left" alt="Yogesh's Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
