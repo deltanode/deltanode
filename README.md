@@ -40,6 +40,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://stackoverflow.com/users/2575386/yogesh-yadav">
   <img align="left" alt="Yogesh's Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
 </a>
+<a href="https://public.tableau.com/app/profile/yogesh7132/vizzes">
+  <img align="left" alt="Yogesh's Tableau Profile" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Ionicons_logo-tableau.svg" />
+</a>
 <a href="https://medium.com/@yogeshyd">
   <img align="left" alt="Yogesh's Medium Account" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Medium_icon.svg" />
 </a>
