@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">
+<h2 align="left">
 	 About Me:
-</h1>
-
-<br >
+</h2>
 Hi 👋, I'm Yogesh Yadav, a senior software engineer and passionate self-taught full stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. <br>
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
  
