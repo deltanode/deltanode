@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
-	Hello and welcome :smile:
+<h1 align="left">
+	 About Me:
 </h1>
 
 <br >
