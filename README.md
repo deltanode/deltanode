@@ -94,7 +94,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 * [TypeScript Patterns Every Frontend Engineer Should Know](https://medium.com/codescoop-dev/typescript-patterns-every-frontend-engineer-should-know-5e85243ab421)
 * [The Frontend Architecture Decisions That Actually Matter at Scale](https://medium.com/codescoop-dev/the-frontend-architecture-decisions-that-actually-matter-at-scale-51603e73888a)
 * [Frontend Performance That Actually Moves the Needle](https://dev.to/codescoop/frontend-performance-that-actually-moves-the-needle-41b7)
-* [Explore the lexical Environment & Environment Record in Javascript 2021](https://codescoop.hashnode.dev/what-has-changed-in-lexical-environment-as-per-ecmascript2021)
+* [Frontend Caching Done Right](https://codescoop.hashnode.dev/frontend-caching-done-right)
 <!--END_SECTION:feed-->
 
 ## 📚 Article Series
